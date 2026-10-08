@@ -1,0 +1,6 @@
+{
+  "name": "EcoQuest AI",
+  "description": "Voice-first outdoor gamification interface featuring a 3D scroll-animated character, minimalist HUD overlay, and dynamic transparent map layer.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
